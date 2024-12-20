@@ -36,9 +36,9 @@ a) (2 points) Screen layout.
 b) (1 point) All fields should accept only decimal numbers.
 c) (2 points) Conversion calculation from Real to Dollar and Euro, Dollar to Real and Euro, and Euro to Dollar and Real."
 
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 ### **Middle Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 **"Build a utility app that contains two functions: one to calculate the best fuel option and another to calculate a person's BMI (Body Mass Index).
 The app should have a main screen with an option to navigate to the desired function, as shown in the example picture.**
 **The program fluxogram was given, and the BMI picture was also given**
@@ -54,7 +54,6 @@ Calculate the BMI (Body Mass Index).
 The simple formula is as follows: WEIGHT / (HEIGHT * HEIGHT) (Weight in kilograms and height in meters).
 The app should receive as input from the user the height and weight values.
 The app should perform the calculation and display the user's BMI classification according to the chart in the picture."
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### **Class Activity 3**
 *"Implement the functionalities of registering, editing, and deleting in the project below using the API provided:
@@ -63,7 +62,7 @@ https://672162e498bbb4d93ca84641.mockapi.io/animal"*
 Note: the mockapi was already taken down.
 
 ### **Second Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 "Develop an application that contains a screen listing the users registered in the API above.
 The main screen of the application should display a list of users, which should be downloaded from the API, as shown in the example image.
 
@@ -78,9 +77,9 @@ Main Screen:
 2 pts - Create the layout for the list item.
 2 pts - Implement the Interface to create the Retrofit instance.
 2 pts - Implement the GET method to display the list of users on the screen in case of success, or show an informative message in case of failure."
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 ### **Final Test**
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 **"Develop an application that contains two screens. On the first screen, it should display a list of Pokémon that should come from the API described above. 
 On the second screen, it should show a Pokémon detail screen with its descriptions (the second screen is already ready, you just need to bind the API values to the fields on the screen).**
 
@@ -104,8 +103,8 @@ On the second screen, it should show a Pokémon detail screen with its descripti
 
 Code to display the list in columns in RecyclerView:
 recyclerView.layoutManager = GridLayoutManager(context, 2)"
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-***Final note:***
+>_
+**Final note:**
 *This semester in specific was so rushed(all was learnt within 4 months) that some little, but relevant mistakes were done by me.
 Take this, and the fact that each test was done in less than two(2) hours, in consideration.
 It does not represent the best results I can give, but are honest samples of the progression of someone who just learned Kotlin.*
