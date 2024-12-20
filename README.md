@@ -2,7 +2,7 @@
 ## ***"But what do these programs do? what problems do they solve?"***
 ## **Here's a quick resume about what each file on this repository do:** 
 
-##**Exercise 1**
+## **Exercise 1**
 ### ***IN RESUME: Create a mobile app with register & login funcionalities.***
 
 "Create a mobile application for Android using the Kotlin language, with the functionalities of registration and login,
