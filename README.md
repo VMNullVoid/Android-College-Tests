@@ -3,7 +3,7 @@
 ## **Here's a quick resume about what each file on this repository do:** 
 
 ##**Exercise 1**
-### ***IN RESUME: Create a mobile app with register & login funcionalities.
+### ***IN RESUME: Create a mobile app with register & login funcionalities.***
 
 "Create a mobile application for Android using the Kotlin language, with the functionalities of registration and login,
  where each of these functionalities should have a screen for each (login screen, registration screen). 
@@ -11,7 +11,7 @@ It should also be implemented using the static database I demonstrated in the la
 When registering, the information should be stored in this static class, so that when returning to the login screen, it is possible to authenticate the newly registered user."
 
 ## **Exercise 2**
-### ***IN RESUME: Gets the project above, and implements a list of those who registered on the system, after the login/register. ***
+### ***IN RESUME: Gets the project above, and implements a list of those who registered on the system, after the login/register.***
 
 "Using the app from the first submission (Login, Registration, and Authenticated screen), implement the functionality to display a list of users already registered in the system on the screen after the login is completed.
 This list should reflect the registrations made in the app.
