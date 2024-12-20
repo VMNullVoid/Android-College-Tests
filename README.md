@@ -1,6 +1,6 @@
 # **This repository contains basically all of my tests and activities from college, using Kotlin in Android Studio.**
 ## ***"But what do these programs do? what problems do they solve?"***
-## **Here's a quick resume about what each file on this repository do : ** 
+## **Here's a quick resume about what each file on this repository do:** 
 
 ##**Exercise 1**
 ### ***IN RESUME: Create a mobile app with register & login funcionalities.
